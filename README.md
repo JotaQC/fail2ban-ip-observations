@@ -1,1 +1,1 @@
-# fail2ban-ip-observation
+# fail2ban-ip-observations
