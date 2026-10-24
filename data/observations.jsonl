@@ -7,6 +7,7 @@
 {"events":1,"first_seen":"2026-10-24T11:11:04Z","ip":"45.198.224.125","jails":["caddy-ip-scans"],"last_seen":"2026-10-24T11:11:04Z"}
 {"events":1,"first_seen":"2026-10-24T11:11:07Z","ip":"47.250.52.227","jails":["caddy-ip-scans"],"last_seen":"2026-10-24T11:11:07Z"}
 {"events":1,"first_seen":"2026-10-24T11:11:03Z","ip":"66.132.224.228","jails":["caddy-ip-scans"],"last_seen":"2026-10-24T11:11:03Z"}
+{"events":1,"first_seen":"2026-10-24T13:15:23Z","ip":"71.6.155.70","jails":["caddy-ip-scans"],"last_seen":"2026-10-24T13:15:23Z"}
 {"events":1,"first_seen":"2026-10-24T11:11:06Z","ip":"80.94.95.211","jails":["caddy-ip-scans"],"last_seen":"2026-10-24T11:11:06Z"}
 {"events":1,"first_seen":"2026-10-24T11:10:52Z","ip":"85.217.140.7","jails":["caddy-ai-bots"],"last_seen":"2026-10-24T11:10:52Z"}
 {"events":1,"first_seen":"2026-10-24T11:10:55Z","ip":"93.123.109.152","jails":["caddy-ai-bots"],"last_seen":"2026-10-24T11:10:55Z"}
