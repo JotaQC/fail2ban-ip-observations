@@ -60,6 +60,7 @@
 {"events":1,"first_seen":"2026-10-25T11:29:04Z","ip":"124.49.34.151","jails":["caddy-ip-scans"],"last_seen":"2026-10-25T11:29:04Z"}
 {"events":1,"first_seen":"2026-10-24T11:10:58Z","ip":"130.12.180.163","jails":["caddy-ai-bots"],"last_seen":"2026-10-24T11:10:58Z"}
 {"events":1,"first_seen":"2026-10-24T11:10:56Z","ip":"130.12.180.170","jails":["caddy-ai-bots"],"last_seen":"2026-10-24T11:10:56Z"}
+{"events":1,"first_seen":"2026-10-25T13:59:17Z","ip":"130.12.180.175","jails":["caddy-allowlist-get"],"last_seen":"2026-10-25T13:59:17Z"}
 {"events":1,"first_seen":"2026-10-24T11:10:57Z","ip":"130.12.180.176","jails":["caddy-ai-bots"],"last_seen":"2026-10-24T11:10:57Z"}
 {"events":1,"first_seen":"2026-10-24T23:17:31Z","ip":"134.122.106.248","jails":["caddy-ip-scans"],"last_seen":"2026-10-24T23:17:31Z"}
 {"events":1,"first_seen":"2026-10-24T19:13:15Z","ip":"137.184.30.153","jails":["caddy-ip-scans"],"last_seen":"2026-10-24T19:13:15Z"}
