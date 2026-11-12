@@ -612,6 +612,7 @@
 {"events":2,"first_seen":"2026-10-26T04:36:22Z","ip":"157.245.72.120","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:12:12Z"}
 {"events":1,"first_seen":"2026-11-08T17:44:08Z","ip":"157.245.157.191","jails":["caddy-ip-scans"],"last_seen":"2026-11-08T17:44:08Z"}
 {"events":2,"first_seen":"2026-10-25T07:17:20Z","ip":"157.245.225.43","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:12:08Z"}
+{"events":1,"first_seen":"2026-11-12T21:41:43Z","ip":"159.65.193.18","jails":["caddy-ip-scans"],"last_seen":"2026-11-12T21:41:43Z"}
 {"events":2,"first_seen":"2026-10-28T22:21:01Z","ip":"159.89.98.205","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:12:24Z"}
 {"events":2,"first_seen":"2026-10-27T05:26:34Z","ip":"159.89.224.209","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:12:20Z"}
 {"events":2,"first_seen":"2026-10-25T22:05:45Z","ip":"159.203.85.226","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:12:16Z"}
@@ -718,6 +719,8 @@
 {"events":2,"first_seen":"2026-10-24T23:52:00Z","ip":"185.226.196.24","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:14:38Z"}
 {"events":2,"first_seen":"2026-10-24T23:52:30Z","ip":"185.226.196.25","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:14:42Z"}
 {"events":1,"first_seen":"2026-11-10T16:19:18Z","ip":"185.226.197.52","jails":["caddy-ip-scans"],"last_seen":"2026-11-10T16:19:18Z"}
+{"events":1,"first_seen":"2026-11-12T21:35:49Z","ip":"185.226.197.72","jails":["caddy-ip-scans"],"last_seen":"2026-11-12T21:35:49Z"}
+{"events":1,"first_seen":"2026-11-12T21:35:41Z","ip":"185.226.197.75","jails":["caddy-ip-scans"],"last_seen":"2026-11-12T21:35:41Z"}
 {"events":1,"first_seen":"2026-11-09T15:45:01Z","ip":"185.226.197.102","jails":["caddy-ip-scans"],"last_seen":"2026-11-09T15:45:01Z"}
 {"events":1,"first_seen":"2026-11-07T17:12:05Z","ip":"185.247.137.34","jails":["caddy-ip-scans"],"last_seen":"2026-11-07T17:12:05Z"}
 {"events":1,"first_seen":"2026-11-02T16:37:13Z","ip":"185.247.137.38","jails":["caddy-ip-scans"],"last_seen":"2026-11-02T16:37:13Z"}
