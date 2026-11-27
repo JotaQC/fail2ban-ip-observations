@@ -1481,6 +1481,7 @@
 {"events":1,"first_seen":"2026-11-03T05:26:55Z","ip":"216.180.246.250","jails":["caddy-ip-scans"],"last_seen":"2026-11-03T05:26:55Z"}
 {"events":1,"first_seen":"2026-10-31T10:11:26Z","ip":"216.218.206.67","jails":["caddy-ip-scans"],"last_seen":"2026-10-31T10:11:26Z"}
 {"events":1,"first_seen":"2026-11-02T00:02:25Z","ip":"216.218.206.69","jails":["caddy-ip-scans"],"last_seen":"2026-11-02T00:02:25Z"}
+{"events":1,"first_seen":"2026-11-27T19:18:01Z","ip":"216.226.77.20","jails":["caddy-ip-scans"],"last_seen":"2026-11-27T19:18:01Z"}
 {"events":1,"first_seen":"2026-11-02T02:57:07Z","ip":"216.226.77.30","jails":["caddy-ip-scans"],"last_seen":"2026-11-02T02:57:07Z"}
 {"events":1,"first_seen":"2026-11-24T16:24:54Z","ip":"216.244.254.17","jails":["caddy-ip-scans"],"last_seen":"2026-11-24T16:24:54Z"}
 {"events":2,"first_seen":"2026-10-24T11:11:08Z","ip":"217.60.76.167","jails":["caddy-ip-scans"],"last_seen":"2026-10-30T00:18:37Z"}
